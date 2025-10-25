@@ -8,8 +8,8 @@ Clone or Download the Project
 
 Open your terminal and run:
 
-git clone https://github.com/yourusername/web-2.git
-cd web-2
+git clone https://github.com/Code-fever1/WAD-ASSIGNMENT-1.git
+cd WAD-ASSIGNMENT-1
 
 
 Install Dependencies
